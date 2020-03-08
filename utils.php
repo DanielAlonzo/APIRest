@@ -1,6 +1,6 @@
 <?php
 
-  //Abrir conexion a la base de datos
+  //Abrir conexion a la base de dato
   function connect($db)
   {
       try {
